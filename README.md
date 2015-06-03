@@ -1,4 +1,3 @@
-Id3Parser
-=========
+# Id3Parser
 
-** TODO: Add description **
+Examples in Elixir
